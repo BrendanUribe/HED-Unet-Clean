@@ -1,0 +1,7 @@
+Kernels/ 
+Maps/
+__pycache__/
+dataset/
+runs/
+*.pth
+earth_img_*.png
