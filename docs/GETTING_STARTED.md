@@ -176,4 +176,4 @@ GPU memory use grows with image size, roughly 4x per doubling. Rough figures for
 - Ronneberger, O., Fischer, P., Brox, T. (2015). *U-Net: Convolutional Networks for Biomedical Image Segmentation.*
 - Cloud maps from shadedrelief.com; ephemerides from JPL HORIZONS.
 
-Questions? Ask [YOUR NAME / CONTACT].
+Questions? Ask [Brendan Uribe]. ->discord
